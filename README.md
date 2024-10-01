@@ -7,9 +7,9 @@ för att komma igång med användandet av versionshantering på git/github.
 Detta är min start kring att komma igång med versionshantering 
 
 **Hur min process har sett ut:**
-*Laddat ner git på min egna dator *MacOS*.
-*Skapat ett användarkonto på github.
-*Gjort en personlig *README-fil* till min profilsida.
-*Skapat mitt första Repository.
+* Laddat ner git på min egna dator *MacOS*.
+* Skapat ett användarkonto på github.
+* Gjort en personlig *README-fil* till min profilsida.
+* Skapat mitt första Repository.
 
 ### Skriven av: Therese N , thne1900.
